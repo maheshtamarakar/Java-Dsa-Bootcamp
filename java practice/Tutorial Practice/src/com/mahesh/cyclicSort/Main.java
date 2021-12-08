@@ -1,4 +1,4 @@
-package com.mahesh;
+package com.mahesh.cyclicSort;
 
 public class Main {
 
