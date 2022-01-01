@@ -1,8 +1,12 @@
 package com.mahesh.bitwiseOperator;
 
+import java.util.ArrayList;
+
 public class nonRepeatingElement {
     public static void main(String[] args) {
         int[] arr = {2,3,4,5,2,3,4};
+        ArrayList<Integer> list = new ArrayList<>();
+
 
 //        System.out.println(nonRepeating(arr));
 //        System.out.println(unique(arr));
